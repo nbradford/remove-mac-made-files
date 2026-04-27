@@ -8,4 +8,4 @@ This removes .DS_STORE files and other ._files.xxx from the location specified. 
 
 1. open remove-mac-made-files.sh
 2. enter the location of the volume from your current directory
-3. wait until the state has been saved
+3. wait until the line "Mac-made files have been removed from $VOLUME_PATH." is displayed and the state has been saved
